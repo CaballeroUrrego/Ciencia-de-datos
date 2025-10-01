@@ -1,0 +1,10 @@
+# Archivos de entorno virtual y caché (DEBEN IGNORARSE)
+.venv/
+__pycache__/
+*.pyc
+
+# Archivos de Jupyter Notebook que deben ignorarse
+.ipynb_checkpoints/
+
+# Directorios de configuración de VS Code
+.vscode/
