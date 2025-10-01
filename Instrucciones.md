@@ -7,10 +7,10 @@
 "C:/Users/se302/Documents/PROGRAMACION/Ciencia de datos/.venv/Scripts/Activate.ps1" 
 
 1.2. Instalación de Librerías
-
+- Instale todas las librerías externas que requerirá el proyecto.
 ![Vista del proyecto](doc/img/instalando.png)
 
-Instale todas las librerías externas que requerirá el proyecto. 
+
 
 # Ejecutar en la terminal con (.venv) activo
 pip install pandas numpy mysql-connector-python python-dotenv
