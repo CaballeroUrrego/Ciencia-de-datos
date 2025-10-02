@@ -1,6 +1,6 @@
 
 
-1 Creacion del entorno virtual 
+1.0 Creacion del entorno virtual 
 
 1.1 Activacion de entorno virtual
 
@@ -22,4 +22,13 @@ pip install pandas numpy mysql-connector-python python-dotenv
 1.4 Crear un archivo dataset.ipynb 
 Su documentacion:https://jupyter.org/
 
-1.5 Intentar seguir la Documentacion:https://www.conventionalcommits.org/en/v1.0.0/
+1.5 Intentar seguir la Documentacion:
+https://www.conventionalcommits.org/en/v1.0.0/
+
+2.0 crear un archivo .env con las credenciales de SQL Server (Las que creó, necesarias para pymssql) y verifiar en el archivo main.py si esta conectado.
+
+Problemas a la conexion a la base de datos:Solucion:
+![Vista del proyecto](doc/img/Problemas.png)
+
+
+2.1 Crear un archivo main.py con las credenciales de SQL Server (Las que creó, necesarias para pymssql) y verificar en el archivo main.py si esta conectado.
