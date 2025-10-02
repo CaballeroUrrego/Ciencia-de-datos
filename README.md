@@ -32,3 +32,5 @@ Problemas a la conexion a la base de datos:Solucion:
 
 
 2.1 Crear un archivo main.py con las credenciales de SQL Server (Las que creó, necesarias para pymssql) y verificar en el archivo main.py si esta conectado.
+
+2.2 Editar y practicar  https://www.kaggle.com/code/luisyances/economia-eeuu

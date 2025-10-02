@@ -21,3 +21,4 @@ pip install pandas numpy mysql-connector-python python-dotenv
 
 1.4 Crear un archivo dataset.ipynb 
 Su documentacion:https://jupyter.org/
+
