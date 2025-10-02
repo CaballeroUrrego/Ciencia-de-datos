@@ -1,6 +1,6 @@
 import os
 import sys
-import mysql.connector # Se importa, pero no se usa para SQL Server
+# import mysql.connector # Se importa, pero no se usa para SQL Server
 import pandas as pd
 from datetime import datetime, timedelta
 from dotenv import load_dotenv
